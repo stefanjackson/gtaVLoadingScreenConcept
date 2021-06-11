@@ -3,7 +3,7 @@
 Loading screen for GTA V (video game) with functioning loading bar and custom UI made with Javascript, HTML, CSS, Lua. 
 
 
-Here is a video of the loading screen functioning when hooked-up to the actual game and a server.
+Here is a video of the loading screen functioning when hooked-up to the game and server.
 
 https://user-images.githubusercontent.com/46360594/121613655-f69f3c00-ca2a-11eb-989e-28ae352304a4.mp4
 
